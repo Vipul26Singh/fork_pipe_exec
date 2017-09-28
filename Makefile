@@ -12,8 +12,7 @@ clean:
 	rm -rf child
 	rm -rf parent
 	rm -rf *.o
-	rm test.txt
-	rm parent.txt
+	rm *.txt
 
 run:
 	./parent
